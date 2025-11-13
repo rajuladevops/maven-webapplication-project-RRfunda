@@ -5,14 +5,14 @@
 	<groupId>com.kk</groupId>
 	<artifactId>RR_ENTERPRISES</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHORT</version>
 	
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>RR ENTERPRISES</name>
+		<name>RR ENTERPRsdfssdfsdfsdfsISES</name>
 		<url>http://kkfunda.com</url>
 	</organization>
 
