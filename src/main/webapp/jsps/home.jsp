@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> RR ENTERPRISES SRE Portal</h1>
+    <h1> RR ENTERPRISES</h1>
     <h3>Training | credit card services | Consulting</h3>
 </header>
 
