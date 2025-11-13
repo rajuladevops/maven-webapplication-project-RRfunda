@@ -47,7 +47,7 @@
 
 <header>
     <h1> RR </h1>
-    <h3>Training | credit card services | Consulting</h3>
+    <h3>credit card services | Consulting</h3>
 </header>
 
 <div class="container">
