@@ -77,7 +77,7 @@
         <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="120" class="mb-3 rounded-circle shadow">
         <h4>RR ETNERPRISES</h4>
         <p><b>Address:</b> Martha Halli, Bangalore</p>
-        <p><b>Phone:</b> +91-9390034122</p>
+        <p><b>Phone:</b> +91-93904122</p>
         <p><b>Email:</b> <a href="mailto:kkeducationblr@gmail.com">rreducationblr@gmail.com</a></p>
         <a href="mailto:rreducation@gmail.com" class="btn btn-primary mt-2">📧 Mail to rr FUNDA</a>
     </div>
