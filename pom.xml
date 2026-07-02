@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>pavanrelease</name>
-	      <url>http://13.233.225.73:8081/repository/pavan_rele/</url>
+	      <url>http://54.221.47.153:8081/repository/mobis_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>RR shopshort</name>
-	      <url>http://13.233.225.73:8081/repository/pavan/</url>
+	      <url>http://54.221.47.153:8081/repository/mobis_snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
